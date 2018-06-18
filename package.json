@@ -10,7 +10,7 @@
   "main": "dist/react.smart.data.table.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joaocarmo/react-smart-data-table.git"
+    "url": "git+https://github.com/arpit/react-smart-data-table.git"
   },
   "keywords": [
     "react",
